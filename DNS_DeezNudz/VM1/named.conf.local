@@ -1,0 +1,4 @@
+zone "mysite.local" {
+    type master;
+    file "/etc/bind/zones/db.mysite.local";
+};
