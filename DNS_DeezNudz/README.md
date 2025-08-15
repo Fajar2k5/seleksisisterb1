@@ -1,5 +1,7 @@
 # Simulasi Jaringan dengan DNS, Reverse Proxy, dan Firewall
 
+Link video: https://youtu.be/-6sv6-hKxn4
+
 ## Arsitektur
 
 Semua VM berjalan pada jaringan virtual terisolasi (`Internal Network` di VirtualBox) dan tidak terhubung ke internet. Gunakan VM Debian agar bisa mereproduksi konfigurasi gwejh :)
